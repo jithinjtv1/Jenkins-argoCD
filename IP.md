@@ -10,7 +10,7 @@ pipeline {
     stages {
         stage('Hello World') {
             steps {
-                // This will print "Hello World" to the console
+                // This will print "Hello World1" to the console
                 echo 'Hello World'
             }
         }
