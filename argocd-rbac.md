@@ -4,7 +4,7 @@
 
 ArgoCD uses Role-Based Access Control (RBAC) to provide fine-grained permissions to users and manage access to applications and other resources. By creating roles with specific permissions, administrators can limit access to certain ArgoCD functions. In this lab, we'll demonstrate how to create a new user, define a custom role, and assign that role to the user.
 
-## Prerequisites
+### Prerequisites
 
 - A running ArgoCD instance on Kubernetes.
 - Access to `kubectl` configured for your Kubernetes cluster.
