@@ -5,7 +5,7 @@
 - **Security Group**: Ensure ports `8080` (Jenkins) and `22` (SSH) are open.
 - **Root or sudo access**.
 
-## Step 1: SSH into Your EC2 Instance
+### Step 1: SSH into Your EC2 Instance
 1. Open your terminal and connect to your EC2 instance using SSH:
     ```bash
     ssh -i <your-aws-key.pem> ubuntu@<ec2-instance-public-ip>
