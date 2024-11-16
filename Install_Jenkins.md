@@ -1,4 +1,4 @@
-# Lab: Install Jenkins on an Ubuntu 24.04 EC2 Instance
+## Lab: Install Jenkins on an Ubuntu 24.04 EC2 Instance
 
 ### Prerequisites
 - **EC2 Instance**: Ubuntu 24.04 installed.
