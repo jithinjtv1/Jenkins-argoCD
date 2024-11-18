@@ -1,0 +1,2 @@
+curl -sO http://35.173.241.34:8080/jnlpJars/agent.jar
+java -jar agent.jar -url http://35.173.241.34:8080/ -secret 9620f9ecc1a110b5a7941aa99897b1846b92a80ec2dfc947d5ec94e2422a547f -name "Jithin_jenkins2" -webSocket -workDir "/home/jenkins"
